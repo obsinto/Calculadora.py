@@ -41,14 +41,14 @@ python calculadora.py
 ## Exemplo de Uso
 
 Escolha a opção desejada:
-1 -> Soma
-2 -> Subtração
-3 -> Multiplicação
-4 -> Divisão
-5 -> Exponenciação
+1. Soma
+2. Subtração
+3. Multiplicação
+4. Divisão
+5. Exponenciação
 
-Escolha a opção desejada: 1
-Insira o valor: 10
-Insira o valor: 5
-Resultado da Soma: 15.0
+- Escolha a opção desejada: 1
+- Insira o valor: 10
+- Insira o valor: 5
+- Resultado da Soma: 15.0
 
