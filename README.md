@@ -38,7 +38,7 @@ Execute o programa a partir de um terminal ou prompt de comando usando o seguint
 python calculadora.py
 ```
 
-Exemplo de Uso
+## Exemplo de Uso
 
 Escolha a opção desejada:
 1 -> Soma
@@ -51,3 +51,4 @@ Escolha a opção desejada: 1
 Insira o valor: 10
 Insira o valor: 5
 Resultado da Soma: 15.0
+
